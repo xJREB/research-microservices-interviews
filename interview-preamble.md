@@ -2,7 +2,7 @@
 
 University of Applied Sciences Reutlingen / University of Stuttgart
 
-|||
+|Name|Email|
 |---|---|
 |Justus Bogner|justus.bogner@reutlingen-university.de, justus.bogner@iste.uni-stuttgart.de|
 |Jonas Fritzsch|jonas.fritzsch@iste.uni-stuttgart.de|
